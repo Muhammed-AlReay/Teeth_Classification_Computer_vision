@@ -31,22 +31,6 @@ Accurate teeth classification supports:
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-├── saved/                    # Deployment files
-│   ├── app.py                # Streamlit app
-│   ├── requirements.txt      # Dependencies
-│
-├── pretrained_models/        # Model experiments
-│   ├── ResNet50.ipynb
-│   ├── DenseNet121.ipynb
-│   ├── MobileNet.ipynb
-│   ├── functional_1.ipynb
-
-
----
-
 ## 🗂 Dataset
 - Images of teeth (preprocessing required)  
 - 7 distinct classes  
@@ -78,4 +62,16 @@ Model performance is assessed using:
 git clone https://github.com/Muhammed-AlReay/Teeth_Classification_Computer_vision.git
 cd Teeth_Classification_Computer_vision
 
+## 📂 Repository Structure
+
+```bash
+├── saved/                    # Deployment files
+│   ├── app.py                # Streamlit app
+│   ├── requirements.txt      # Dependencies
+│
+├── pretrained_models/        # Model experiments
+│   ├── ResNet50.ipynb
+│   ├── DenseNet121.ipynb
+│   ├── MobileNet.ipynb
+│   ├── functional_1.ipynb
 
