@@ -75,14 +75,6 @@ All were trained and evaluated for comparison, confirming ResNet50 as the most r
 
 ---
 
-## 🚀 Installation & Usage
-### 1. Clone the repository
-```bash
-git clone https://github.com/Muhammed-AlReay/Teeth_Classification_Computer_vision.git
-cd Teeth_Classification_Computer_vision
-
----
-
 
 ## 📂 Repository Structure
 
@@ -97,3 +89,12 @@ cd Teeth_Classification_Computer_vision
 │   ├── MobileNet.ipynb
 │   ├── functional_1.ipynb
 
+---
+
+## **🚀 Installation & Usage**
+### 1. Clone the repository
+```bash
+git clone https://github.com/Muhammed-AlReay/Teeth_Classification_Computer_vision.git
+cd Teeth_Classification_Computer_vision
+
+---
