@@ -36,6 +36,8 @@ Accurate teeth classification supports:
 - 7 distinct classes  
 - Dataset balance and class distribution analyzed during visualization  
 
+---
+
 ## ⚙ Preprocessing
 - **Normalization:** Standardize pixel values  
 - **Augmentation:** Flip, rotate, zoom, and other transformations to improve generalization  
@@ -43,11 +45,15 @@ Accurate teeth classification supports:
   - Class distribution (to check dataset balance)  
   - Sample images before and after augmentation  
 
+---
+
 ## 🧠 Model Architecture
 - Framework: **TensorFlow** or **PyTorch**  
 - Custom CNN designed for teeth classification  
 - Provides a **baseline performance** for comparison with pretrained models  
 - Baseline serves as foundation for future improvements  
+
+---
 
 ## 📊 Evaluation Metrics
 Model performance is assessed using:
@@ -56,9 +62,9 @@ Model performance is assessed using:
 - **Recall**  
 - **F1-Score**  
 
+---
 
 ## 🔮 Results
-
 **ResNet50 (Best Model):**
 - Test Accuracy: 94%
 - Test Loss: 0.2136
@@ -75,9 +81,7 @@ All were trained and evaluated for comparison, confirming ResNet50 as the most r
 
 ---
 
-
 ## 📂 Repository Structure
-
 ```bash
 ├── saved/                    # Deployment files
 │   ├── app.py                # Streamlit app
@@ -97,4 +101,4 @@ All were trained and evaluated for comparison, confirming ResNet50 as the most r
 git clone https://github.com/Muhammed-AlReay/Teeth_Classification_Computer_vision.git
 cd Teeth_Classification_Computer_vision
 
----
+
