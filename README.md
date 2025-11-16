@@ -43,3 +43,39 @@ Accurate teeth classification supports:
 │   ├── DenseNet121.ipynb
 │   ├── MobileNet.ipynb
 │   ├── functional_1.ipynb
+
+
+---
+
+## 🗂 Dataset
+- Images of teeth (preprocessing required)  
+- 7 distinct classes  
+- Dataset balance and class distribution analyzed during visualization  
+
+## ⚙ Preprocessing
+- **Normalization:** Standardize pixel values  
+- **Augmentation:** Flip, rotate, zoom, and other transformations to improve generalization  
+- **Visualization:**  
+  - Class distribution (to check dataset balance)  
+  - Sample images before and after augmentation  
+
+## 🧠 Model Architecture
+- Framework: **TensorFlow** or **PyTorch**  
+- Custom CNN designed for teeth classification  
+- Provides a **baseline performance** for comparison with pretrained models  
+- Baseline serves as foundation for future improvements  
+
+## 📊 Evaluation Metrics
+Model performance is assessed using:
+- **Accuracy**  
+- **Precision**  
+- **Recall**  
+- **F1-Score**  
+
+## 🚀 Installation & Usage
+### 1. Clone the repository
+```bash
+git clone https://github.com/Muhammed-AlReay/Teeth_Classification_Computer_vision.git
+cd Teeth_Classification_Computer_vision
+
+
