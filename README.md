@@ -37,7 +37,8 @@ Accurate teeth classification plays a vital role in:
 │ ├── DenseNet121.ipynb
 │ ├── MobileNet.ipynb
 │ ├── functional_1.ipynb
----
+```bash
+
 ---
 ## 🗂 Dataset
 - Images of teeth (preprocessing required).  
