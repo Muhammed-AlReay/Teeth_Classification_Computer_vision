@@ -72,14 +72,18 @@ ResNet50 achieved the best balance between accuracy and generalization, making i
 - CNN from scratch
 
 All were trained and evaluated for comparison, confirming ResNet50 as the most reliable model for this teeth classification task.
+
 ---
+
 ## 🚀 Installation & Usage
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Muhammed-AlReay/Teeth_Classification_Computer_vision.git
 cd Teeth_Classification_Computer_vision
+
 ---
----
+
+
 ## 📂 Repository Structure
 
 ```bash
